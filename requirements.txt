@@ -1,0 +1,6 @@
+gobject
+PyGObject
+playsound
+glob
+eyed3
+pydub
