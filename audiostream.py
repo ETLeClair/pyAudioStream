@@ -80,7 +80,6 @@ def main():
 
 def menu():
     global song_table
-    print(song_table)
     menu_bool = 1
     while menu_bool == 1:
         try:
