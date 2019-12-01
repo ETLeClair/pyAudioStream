@@ -1,0 +1,2 @@
+  #Add file path below. Then, delete this comment and rename to configs.txt
+sound_library: <INSERT_HERE>
